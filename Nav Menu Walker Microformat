@@ -1,5 +1,5 @@
 
-class Primary_Menu_Walker extends Walker_Nav_Menu {
+class My_Menu_Walker extends Walker_Nav_Menu {
 
   function start_lvl( &$output, $depth ) {
 
